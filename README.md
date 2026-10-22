@@ -1,7 +1,10 @@
 # Dibujos
 
-Estos son los dos dibujos que subiste en el issue:
+Estas son los dos dibujos del proyecto. Para que se visualicen correctamente, subí los archivos de imagen dentro de la carpeta `assets/` y mantené estos nombres:
 
-![Dibujo 1](https://github.com/user-attachments/assets/ca7cca42-add2-4fe3-bab6-70015256eadd)
+- `assets/dibujo1.png`
+- `assets/dibujo2.png`
 
-![Dibujo 2](https://github.com/user-attachments/assets/5d1e85f3-c5a6-4045-a765-49bfda1124ab)
+![Dibujo 1](./assets/dibujo1.png)
+
+![Dibujo 2](./assets/dibujo2.png)
